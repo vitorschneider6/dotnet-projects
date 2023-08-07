@@ -1,0 +1,15 @@
+D:\Cursos\C#\Basico\Guids\Guids\bin\Debug\net6.0\Guids.exe
+D:\Cursos\C#\Basico\Guids\Guids\bin\Debug\net6.0\Guids.deps.json
+D:\Cursos\C#\Basico\Guids\Guids\bin\Debug\net6.0\Guids.runtimeconfig.json
+D:\Cursos\C#\Basico\Guids\Guids\bin\Debug\net6.0\Guids.dll
+D:\Cursos\C#\Basico\Guids\Guids\bin\Debug\net6.0\Guids.pdb
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.csproj.AssemblyReference.cache
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.AssemblyInfoInputs.cache
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.AssemblyInfo.cs
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.dll
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\refint\Guids.dll
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.pdb
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\Guids.genruntimeconfig.cache
+D:\Cursos\C#\Basico\Guids\Guids\obj\Debug\net6.0\ref\Guids.dll

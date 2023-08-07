@@ -1,0 +1,15 @@
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+D:\Cursos\C#\Basico\SwitchCase\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll

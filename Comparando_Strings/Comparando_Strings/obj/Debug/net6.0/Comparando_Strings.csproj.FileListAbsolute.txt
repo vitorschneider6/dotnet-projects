@@ -1,0 +1,15 @@
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\bin\Debug\net6.0\Comparando_Strings.exe
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\bin\Debug\net6.0\Comparando_Strings.deps.json
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\bin\Debug\net6.0\Comparando_Strings.runtimeconfig.json
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\bin\Debug\net6.0\Comparando_Strings.dll
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\bin\Debug\net6.0\Comparando_Strings.pdb
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.csproj.AssemblyReference.cache
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.AssemblyInfoInputs.cache
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.AssemblyInfo.cs
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.dll
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\refint\Comparando_Strings.dll
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.pdb
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\Comparando_Strings.genruntimeconfig.cache
+D:\Cursos\C#\Basico\Comparando_Strings\Comparando_Strings\obj\Debug\net6.0\ref\Comparando_Strings.dll
